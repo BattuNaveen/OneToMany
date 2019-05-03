@@ -15,7 +15,7 @@ public class DaoImpl implements Dao {
     SessionFactory sessionFactory;	
 	
 	public Jira findById(String id) {
-		// TODO Auto-generated method stub
+
 		return null;
 	}
 
